@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117669528362",
+    "firebase_url": "https://background-location-service.firebaseio.com",
+    "project_id": "background-location-service",
+    "storage_bucket": "background-location-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117669528362:android:c0c5af96e9a0f93e5b9453",
+        "android_client_info": {
+          "package_name": "com.example.backgroundlocationservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117669528362-perbnchn8aap5j13gjaggea8d9f06bor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVAdIyX2_9mnNbLL22HuJy3t0diumRYkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117669528362-perbnchn8aap5j13gjaggea8d9f06bor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
